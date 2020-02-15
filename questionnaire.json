@@ -1,0 +1,54 @@
+{
+  "results": {
+    "1": "Person1",
+    "2": "Person2",
+    "3": "Person3",
+    "4": "Person4"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your favourite color?",
+      "options": [
+        {
+          "id": 1,
+          "content": {"text": "Red"}
+        },
+        {
+          "id": 2,
+          "content": {"text": "Blue"}
+        },
+        {
+          "id": 3,
+          "content": {"text": "Green"}
+        },
+        {
+          "id": 4,
+          "content": {"text": "Purple"}
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is your favourite food?",
+      "options": [
+        {
+          "id": 1,
+          "content": {"text": "Pani Puri"}
+        },
+        {
+          "id": 2,
+          "content": {"text": "Samosa"}
+        },
+        {
+          "id": 3,
+          "content": {"text": "Pasta"}
+        },
+        {
+          "id": 4,
+          "content": {"text": "Dosa"}
+        }
+      ]
+    }
+  ]
+}
